@@ -3233,6 +3233,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dropship_01_Tank_Red
       objectReference: {fileID: 0}
+    - target: {fileID: 8205046248244987753, guid: b65e1a5479307014db890b7682088b7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2312304150825862299, guid: 2506c32f90ed869409734d062d07c67e, type: 3}
+    - target: {fileID: 8205046248244987753, guid: b65e1a5479307014db890b7682088b7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2312304150825862299, guid: 2506c32f90ed869409734d062d07c67e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3810,6 +3818,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1081364304}
     m_Modifications:
+    - target: {fileID: 7382910892062937954, guid: ac3af60208dece44d84ce07bba593636, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2312304150825862299, guid: 2506c32f90ed869409734d062d07c67e, type: 3}
     - target: {fileID: 8520373489140099085, guid: ac3af60208dece44d84ce07bba593636, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.1008343
@@ -4089,6 +4101,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1426987357351256495, guid: eb7006e94f4801c418095a9490a8b804, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2312304150825862299, guid: 2506c32f90ed869409734d062d07c67e, type: 3}
     - target: {fileID: 2245423431287406633, guid: eb7006e94f4801c418095a9490a8b804, type: 3}
       propertyPath: m_Name
       value: Player Rocket
@@ -4141,6 +4157,14 @@ PrefabInstance:
       propertyPath: m_Intensity
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 8971798144253182715, guid: eb7006e94f4801c418095a9490a8b804, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -6141262742250102974, guid: aa840126f37030e459305ecd09c6f48f, type: 3}
+    - target: {fileID: 8971798144253182715, guid: eb7006e94f4801c418095a9490a8b804, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2312304150825862299, guid: 2506c32f90ed869409734d062d07c67e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

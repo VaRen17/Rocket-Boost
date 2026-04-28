@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e19c54858e9d4cf4d9f790e8385103e3, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1119778803015809145, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
     - target: {fileID: 919132149155446097, guid: e19c54858e9d4cf4d9f790e8385103e3, type: 3}
       propertyPath: m_Name
       value: Crate_02_2_Glow
